@@ -1,8 +1,13 @@
 السلام علیکم ورحمتہ اللہ وبرکاتہ
 
 
-Course Intro
-Not a basic course
+
+Course Intro: Learn PHP Web App Development using MySQL
+Why you are learning this course?
+Client/Server side
+Front/Back end development
+Full stack developer
+
 
 
 My Intro
@@ -14,9 +19,12 @@ Attock City
 www.eSite.pk
 
 
+
 Learn Basic Programming
+Above course is not a basic course but I'll try to explain everything
 Learn Computer Programming on Your Mobile Phone
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew
+
 
 
 Install WAMP/LAMP/MAMP/XAMPP
