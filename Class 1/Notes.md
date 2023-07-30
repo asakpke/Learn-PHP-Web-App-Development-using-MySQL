@@ -61,8 +61,7 @@ Learn 15 courses, specially freelancing
 [DigiSkills.pk](https://digiskills.pk/)
 
 # Basics
-* Client/Server side
-![](http://www.wonko.info/ipt/sse/php/server-side.jpg)
+* Client/Server side ![](http://www.wonko.info/ipt/sse/php/server-side.jpg)
 * Front/Back end development
 * Full stack developer
 
