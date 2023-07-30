@@ -2,7 +2,7 @@
 Hi,
 
 # Course Intro (*very brief*): Learn PHP Web App Development using MySQL
-!(https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
+![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
 * Why you are learning this course?
 * Why I'm teaching this course?
 * Course style
@@ -37,10 +37,10 @@ You can pay fee whatever you can afford. Even if it's just a rupee/dollar, we ap
 # Learn Basic Programming
 Learn Computer Programming on Your Mobile Phone  
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew  
-!(https://esite.pk/wp-content/uploads/2021/09/n2zkz-Vjnhk-1024x576.jpg)
+![](https://esite.pk/wp-content/uploads/2021/09/n2zkz-Vjnhk-1024x576.jpg)
 
 # Learn Basic Development
-* [Learn Professional Web Development HTML (Paid Course)](https://esite.pk/product/learn-professional-web-development-html-course/) !(https://esite.pk/wp-content/uploads/2022/11/CB-tiMfj0YI.jpg)
+* [Learn Professional Web Development HTML (Paid Course)](https://esite.pk/product/learn-professional-web-development-html-course/) ![](https://esite.pk/wp-content/uploads/2022/11/CB-tiMfj0YI.jpg)
 * [My Older FREE Wide Development (FWD) Live Sessions](https://www.youtube.com/playlist?list=PLuSlqiqQkM0wepYUxRHnZVdeQvVOcwP9f)
 * Learn basic HTML/CSS/JS/PHP/SQL etc on [W3Schools.com](https://www.w3schools.com/)
 * [Learn PHP, MySQL And Web Development In Urdu Language By Shakeel Muhammad Khan](https://itechsoul.com/learn-php-mysql-and-web-development-in-urdu-language-by-shakeel-muhammad-khan-on-flip-pages/)
@@ -60,9 +60,9 @@ Learn 15 courses, specially freelancing
 [DigiSkills.pk](https://digiskills.pk/)
 
 # Basics
-* Client/Server side !(http://www.wonko.info/ipt/sse/php/server-side.jpg)
-* Front/Back end development !(https://rpchost.com/wp-content/uploads/2021/07/Front-End-and-Back-End.png)
-* Full stack developer !(https://www.hackerearth.com/blog/wp-content/uploads/2017/02/Blog-Cover-image-Fullstack-Highres.jpg)
+* Client/Server side ![](http://www.wonko.info/ipt/sse/php/server-side.jpg)
+* Front/Back end development ![](https://rpchost.com/wp-content/uploads/2021/07/Front-End-and-Back-End.png)
+* Full stack developer ![](https://www.hackerearth.com/blog/wp-content/uploads/2017/02/Blog-Cover-image-Fullstack-Highres.jpg)
 
 # Install WAMP/LAMP/MAMP/XAMPP
 https://www.apachefriends.org/download.html
