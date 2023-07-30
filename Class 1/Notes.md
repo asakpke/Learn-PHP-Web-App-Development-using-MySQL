@@ -36,12 +36,18 @@ Learn Computer Programming on Your Mobile Phone
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew  
 
 # Learn Basic Development
+* [Learn Professional Web Development HTML (Paid Course)](https://esite.pk/product/learn-professional-web-development-html-course/)
+* [My Older FREE Wide Development (FWD) Live Sessions](https://www.youtube.com/playlist?list=PLuSlqiqQkM0wepYUxRHnZVdeQvVOcwP9f)
 * Learn basic HTML/CSS/JS/PHP/SQL etc on [W3Schools.com](https://www.w3schools.com/)
-* And advanced on [W3.org](https://www.w3.org/) and [PHP.net](https://www.php.net/), the official websites
+## And advanced on 
+* [W3.org](https://www.w3.org/), official website
+* [PHP.net](https://www.php.net/), official website
 * [w3.org/html](https://www.w3.org/html/)
 * [w3.org/css](https://www.w3.org/Style/CSS/)
 * [validator.w3.org](https://validator.w3.org/)
 * [developer.mozilla.org](https://developer.mozilla.org/en-US/)
+* [MySQL](https://www.mysql.com/) or [MariaDB](https://mariadb.com/) , official websites
+
 
 # DigiSkills.pk
 Learn 15 courses, specially freelancing
