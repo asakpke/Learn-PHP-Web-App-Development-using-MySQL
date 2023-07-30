@@ -50,7 +50,7 @@ https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew
 * [developer.mozilla.org](https://developer.mozilla.org/en-US/)
 * [MySQL](https://www.mysql.com/) or [MariaDB](https://mariadb.com/), official websites
 * [PhpMyAdmin](https://www.phpmyadmin.net/), official websites
-
+* [Stack Overflow](https://stackoverflow.com/), official websites
 
 # DigiSkills.pk
 Learn 15 courses, specially freelancing
