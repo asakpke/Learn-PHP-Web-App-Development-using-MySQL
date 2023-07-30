@@ -62,6 +62,7 @@ Learn 15 courses, specially freelancing
 
 # Basics
 * Client/Server side
+![](http://www.wonko.info/ipt/sse/php/server-side.jpg)
 * Front/Back end development
 * Full stack developer
 
