@@ -66,7 +66,7 @@ https://www.apachefriends.org/download.html
 <?php echo 'Hello World' ?>
 <?= 'Hello World' ?>
 ```
-Without closing tag
+Also without closing tag
 
 # Ending
 https://github.com/asakpke/
