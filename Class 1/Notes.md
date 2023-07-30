@@ -32,7 +32,7 @@ Hi,
 > Branch Code: 5201  
 > IBAN No: PK97MEZN0052010100479581  
 
-You can pay fee whatever you can afford. Even if it's just a rupee/dollar, we appreciate it.
+You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dollar, we appreciate it.
 
 # Learn Basic Programming
 Learn Computer Programming on Your Mobile Phone  
