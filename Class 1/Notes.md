@@ -17,6 +17,12 @@ Hi,
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 * Why you are learning this course?
 * Why I'm teaching this course?
 * Course style
