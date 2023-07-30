@@ -14,8 +14,8 @@ Hi,
 * Few of my Linux distros/Respins
 * RoshanTech
 * Attock City
-* www.eSite.pk
-* YouTube.com/asakpke
+* [eSite.pk](http://esite.pk/)
+* [YouTube.com/asakpke](https://www.youtube.com/asakpke)
 
 # Course Intro: Learn PHP Web App Development using MySQL
 * What's PHP, web app, MySQL
@@ -36,15 +36,16 @@ Learn Computer Programming on Your Mobile Phone
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew  
 
 # Learn Basic Development
-* Learn basic HTML/CSS/JS/PHP/SQL etc on W3Schools.com
-* And advanced on w3.org and PHP.net, the official websites
-* w3.org/html
-* w3.org/css
-* validator.w3.org
-* developer.mozilla.org
+* Learn basic HTML/CSS/JS/PHP/SQL etc on [W3Schools.com](https://www.w3schools.com/)
+* And advanced on [W3.org](https://www.w3.org/) and [PHP.net](https://www.php.net/), the official websites
+* [w3.org/html](https://www.w3.org/html/)
+* [w3.org/css](https://www.w3.org/Style/CSS/)
+* [validator.w3.org](https://validator.w3.org/)
+* [developer.mozilla.org](https://developer.mozilla.org/en-US/)
 
 # DigiSkills.pk
 Learn 15 courses, specially freelancing
+[DigiSkills.pk](https://digiskills.pk/)
 
 # Basics
 * Client/Server side
