@@ -1,7 +1,7 @@
 # السلام علیکم ورحمتہ اللہ وبرکاتہ
 Hi,
 
-# Course Intro very brief: Learn PHP Web App Development using MySQL
+# Course Intro (**very brief**): Learn PHP Web App Development using MySQL
 * Why you are learning this course?
 * Why I'm teaching this course?
 * Course style
