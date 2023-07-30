@@ -12,6 +12,11 @@ Hi,
 ***
 ***
 ***
+***
+***
+***
+***
+***
 * Why you are learning this course?
 * Why I'm teaching this course?
 * Course style
