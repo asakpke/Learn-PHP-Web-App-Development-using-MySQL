@@ -74,8 +74,10 @@ https://www.apachefriends.org/download.html
 
 
 # Hello World PHP Program
+```php
 <?php echo 'Hello World' ?>
 <?= 'Hello World' ?>
+```
 
 
 
