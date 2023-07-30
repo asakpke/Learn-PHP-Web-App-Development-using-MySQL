@@ -1,5 +1,5 @@
 # السلام علیکم ورحمتہ اللہ وبرکاتہ
-## Hi,
+Hi,
 
 
 
@@ -31,16 +31,22 @@
 * Course Fee! Pay as you like :slightly_smiling_face:	
 
 > Account Holder: Aamir Shahzad
+
 > Account No: 52010100479581
+
 > Bank Name: Meezan Bank
+
 > City: Attock City
+
 > Branch Code: 5201
+
 > IBAN No: PK97MEZN0052010100479581
 
 
 
 # Learn Basic Programming
 > Learn Computer Programming on Your Mobile Phone
+
 > https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew
 
 
