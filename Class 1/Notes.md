@@ -30,12 +30,12 @@ Hi,
 * Course style is direct, no basics, more later on. Don't worry, I'll try to explain briefly
 * Course Fee! Pay as you like :slightly_smiling_face:	
 
-Account Holder: Aamir Shahzad  
-Account No: 52010100479581  
-Bank Name: Meezan Bank  
-City: Attock City  
-Branch Code: 5201  
-IBAN No: PK97MEZN0052010100479581  
+> Account Holder: Aamir Shahzad  
+> Account No: 52010100479581  
+> Bank Name: Meezan Bank  
+> City: Attock City  
+> Branch Code: 5201  
+> IBAN No: PK97MEZN0052010100479581  
 
 
 
