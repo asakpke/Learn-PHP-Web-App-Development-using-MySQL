@@ -12,14 +12,14 @@
 
 
 # My Intro
-> Aamir Shahzad
-> DCS, IDCS, IADCS, MCS
-> Programming, Linux & Open Source
-> Few of my Linux distros/Respins
-> RoshanTech
-> Attock City
-> www.eSite.pk
-> YouTube.com/asakpke
+* Aamir Shahzad
+* DCS, IDCS, IADCS, MCS
+* Programming, Linux & Open Source
+* Few of my Linux distros/Respins
+* RoshanTech
+* Attock City
+* www.eSite.pk
+* YouTube.com/asakpke
 
 
 
