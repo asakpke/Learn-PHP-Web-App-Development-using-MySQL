@@ -1,11 +1,9 @@
---------------------------------------------------------------------------------
-السلام علیکم ورحمتہ اللہ وبرکاتہ
+# السلام علیکم ورحمتہ اللہ وبرکاتہ
 Hi,
 
 
 
---------------------------------------------------------------------------------
-Course Intro very brief: Learn PHP Web App Development using MySQL
+# Course Intro very brief: Learn PHP Web App Development using MySQL
 Why you are learning this course?
 Why I'm teaching this course?
 Course style
@@ -13,8 +11,7 @@ Course Fee! Don't worry :)
 
 
 
---------------------------------------------------------------------------------
-My Intro
+# My Intro
 Aamir Shahzad
 DCS, IDCS, IADCS, MCS
 Programming, Linux & Open Source
@@ -26,8 +23,7 @@ YouTube.com/asakpke
 
 
 
---------------------------------------------------------------------------------
-Course Intro: Learn PHP Web App Development using MySQL
+# Course Intro: Learn PHP Web App Development using MySQL
 What's PHP, web app, MySQL
 Why you are learning this course? Job? Business/Products?
 Why I'm teaching this course? Create you own digital asset
@@ -43,15 +39,13 @@ IBAN No: PK97MEZN0052010100479581
 
 
 
---------------------------------------------------------------------------------
-Learn Basic Programming
+# Learn Basic Programming
 Learn Computer Programming on Your Mobile Phone
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew
 
 
 
---------------------------------------------------------------------------------
-Learn Basic Development
+# Learn Basic Development
 Learn basic HTML/CSS/JS/PHP/SQL etc on W3Schools.com
 And advanced on w3.org and PHP.net, the official websites
 w3.org/html
@@ -61,33 +55,28 @@ developer.mozilla.org
 
 
 
---------------------------------------------------------------------------------
-DigiSkills.pk
+# DigiSkills.pk
 Learn 15 courses, specially freelancing
 
 
 
---------------------------------------------------------------------------------
-Basics
+# Basics
 Client/Server side
 Front/Back end development
 Full stack developer
 
 
 
---------------------------------------------------------------------------------
-Install WAMP/LAMP/MAMP/XAMPP
+# Install WAMP/LAMP/MAMP/XAMPP
 https://www.apachefriends.org/download.html
 
 
 
---------------------------------------------------------------------------------
-Hello World PHP Program
+# Hello World PHP Program
 <?php echo 'Hello World' ?>
 <?= 'Hello World' ?>
 
 
 
---------------------------------------------------------------------------------
-Ending
+# Ending
 https://github.com/asakpke/
