@@ -18,7 +18,7 @@ Hi,
 * [YouTube.com/asakpke](https://www.youtube.com/asakpke)
 
 # Course Intro: Learn PHP Web App Development using MySQL
-* What's PHP, web app, MySQL
+* What's PHP, web app, MySQL/PhpMyAdmin
 * Why you are learning this course? Job? Business/Products?
 * Why I'm teaching this course? Create you own digital asset
 * Course style is direct, no basics, more later on. Don't worry, I'll try to explain briefly
@@ -46,7 +46,8 @@ https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew
 * [w3.org/css](https://www.w3.org/Style/CSS/)
 * [validator.w3.org](https://validator.w3.org/)
 * [developer.mozilla.org](https://developer.mozilla.org/en-US/)
-* [MySQL](https://www.mysql.com/) or [MariaDB](https://mariadb.com/) , official websites
+* [MySQL](https://www.mysql.com/) or [MariaDB](https://mariadb.com/), official websites
+* [PhpMyAdmin](https://www.phpmyadmin.net/), official websites
 
 
 # DigiSkills.pk
