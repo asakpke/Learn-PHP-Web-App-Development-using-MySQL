@@ -152,7 +152,10 @@ WHERE Conditions
 ### 3.php
 ```php
 <?php
-mysqli_query($connection,'UPDATE users SET name = "Sheikh Aamir Shahzad", email = "aamir@example.com" WHERE id = 1');
+mysqli_query(
+	$connection,
+	'UPDATE users SET name = "Sheikh Aamir Shahzad", email = "aamir@example.com" WHERE id = 1'
+);
 ```
 
 ## 4. CRUD Operation: Delete Record
@@ -164,7 +167,10 @@ WHERE Conditions
 
 ### 4.php
 ```php
-mysqli_query($connection,'DELETE FROM users WHERE id = 1');
+mysqli_query(
+	$connection,
+	'DELETE FROM users WHERE id = 1'
+);
 ```
 
 ## Skipped Functions
