@@ -6,6 +6,6 @@ mysqli_query(
 	'INSERT INTO users (name, email, password) VALUES ("Aamir Shahzad", "Aamir@eSite.pk", "Hmmm, Why I told you?")'
 );
 
-echo "<h1>Database record created successfully.</h1>";  // optional
+echo "<h1>Database record created.</h1>";  // optional
 
 mysqli_close($connection); // optional

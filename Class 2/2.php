@@ -6,10 +6,10 @@ $result = mysqli_query(
 	'SELECT * FROM users'
 );
 
-while($row = mysqli_fetch_assoc($result)) {
-	echo '<pre>';
+echo '<pre>';
+
+while ($row = mysqli_fetch_assoc($result)) {
 	print_r($row);
-	echo '</pre>'; // optional because no more HTML
 }
 
 mysqli_close($connection); // optional

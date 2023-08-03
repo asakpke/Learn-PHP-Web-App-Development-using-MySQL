@@ -84,6 +84,7 @@ Hi
 * die statement/function
 
 ## 0. Connect with the Database
+* mysqli_connect(), return obj or false
 ### 0.php
 ```php
 <?php
@@ -96,9 +97,11 @@ $connection = mysqli_connect(
 ```
 
 ## 1. CRUD Operation: Create Record
-* mysqli_connect(), return obj or false
 * mysqli_query(), return result or false
-* mysqli_close, optional on file ending
+
+```sql
+INSERT INTO table (column_1, column_2, ...) VALUES (value_1, value_2, ...)
+```
 
 ### 1.php
 ```php
@@ -109,33 +112,21 @@ mysqli_query(
 	$connection,
 	'INSERT INTO users (name, email, password) VALUES ("Aamir Shahzad", "Aamir@eSite.pk", "Hmmm, Why I told you?")'
 );
-
-echo "<h1>Database record created successfully.</h1>";  // optional
-
-mysqli_close($connection); // optional
 ```
-
-
 ## 2. CRUD Operation: Read Record
 * mysqli_fetch_assoc()
 
 ### 2.php
 ```php
 <?php
-require '0.php';
-
 $result = mysqli_query(
 	$connection,
 	'SELECT * FROM users'
 );
 
-while($row = mysqli_fetch_assoc($result)) {
-	echo '<pre>';
+while ($row = mysqli_fetch_assoc($result)) {
 	print_r($row);
-	echo '</pre>'; // optional because no more HTML
 }
-
-mysqli_close($connection); // optional
 ```
 
 ### Homework
@@ -147,7 +138,8 @@ mysqli_close($connection); // optional
 
 ### 3.php
 ```php
-
+<?php
+mysqli_query($connection,'UPDATE users SET name = "Sheikh Aamir Shahzad", email = "aamir@example.com" WHERE id = 1');
 ```
 
 ## 4. CRUD Operation: Delete Record
@@ -158,6 +150,7 @@ mysqli_close($connection); // optional
 ```
 
 ## Skipped Functions
+* mysqli_close($connection), optional on file ending
 * mysqli_connect_error()
 	```php
 	if (!$connection) {
