@@ -46,26 +46,29 @@ Hi
 * Our Digital Product
 	* Social Media Post Sharing Project
 * Domain Knowledge
-* Database Design
+* Database Design, in PhpMyAdmin, or other software
 	* Create Database i.e social
 	* Create Table i.e user 
 * Database CRUD Operation in PHP
-	* Create Record
-	* Read Record
-	* Update Record
-	* Delete Record
+	1 Create Record
+	1 Read Record
+	1 Update Record
+	1 Delete Record
 
-# CRUD Operation: Create Record
+## CRUD Operation: Create Record
+1 mysqli_connect()
+1 mysqli_connect_error()
+1 mysqli_query()
+1 mysqli_error()
+1 mysqli_connect()
+
+## CRUD Operation: Read Record
 
 
-# CRUD Operation: Read Record
+## CRUD Operation: Update Record
 
 
-# CRUD Operation: Update Record
-
-
-# CRUD Operation: Delete Record
-
+## CRUD Operation: Delete Record
 
 
 # Install WAMP/LAMP/MAMP/XAMPP
