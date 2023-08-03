@@ -13,12 +13,20 @@ Hi
 * Course style 
 	* Direct
 	* No Basics
-* Have you checked basics from last class? 
+* Have you checked basics (or advanced) resources from last class? 
 	* Programming on phone
+	* My Paid Course HTML
+	* FWD Live Sessions
+	* PHP Urdu Book 
 	* W3Schools
+		* HTML
+		* CSS
+		* JS
+		* PHP
+		* SQL
 	* DigiSkills
-* Course Fee! 
-	* Don't worry :slightly_smiling_face: 
+* Course Fee!
+	* Don't worry :slightly_smiling_face:
 	* Pay as you like!
 > Account Holder: Aamir Shahzad  
 > Account No: 52010100479581  
