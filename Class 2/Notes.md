@@ -76,6 +76,8 @@ Hi
 * loops for/while/do...while/foreach
 
 ## New Knowledge
+* print_r()
+* var_dump()
 * die statement/function
 
 ## 1. CRUD Operation: Create Record
@@ -84,6 +86,7 @@ Hi
 * mysqli_close
 
 ```php
+<?php
 $connection = mysqli_connect(
 	'localhost', // servername/IP, it's comment
 	'root', // username
@@ -93,16 +96,20 @@ $connection = mysqli_connect(
 
 mysqli_query(
 	$connection,
-	'INSERT INTO user (name, email, password) VALUES ("Aamir Shahzad", "Aamir@eSite.pk", "Hmmm, Why I told you?")'
+	'INSERT INTO users (name, email, password) VALUES ("Aamir Shahzad", "Aamir@eSite.pk", "Hmmm, Why I told you?")'
 );
 
-echo "<h1>Database record created successfully.</h1>";
-
-mysqli_close($connection);
+echo "<h1>Database record created successfully.</h1>";  // optional
+// Issue: no errors
+mysqli_close($connection); // optional
 ```
 
 
 ## 2. CRUD Operation: Read Record
+* mysqli_fetch_assoc()
+* mysqli_fetch_row()
+* mysqli_fetch_array()
+* mysqli_fetch_column()
 
 
 ## 3. CRUD Operation: Update Record
@@ -114,12 +121,12 @@ mysqli_close($connection);
 * mysqli_connect_error()
 	```php
 	if (!$connection) {
-  	die('Could not connect with the database due to the following error: ' . mysqli_connect_error());
+		die('<h1>Could not connect with the database due to the following error:</h1>' . mysqli_connect_error());
 	}
 	```
 * mysqli_error()
 	```php
-	echo 'Error in executing query: ' . mysqli_error($connection);
+	echo '<h1>Error in executing query:</h1>' . mysqli_error($connection);
 	```
 
 
