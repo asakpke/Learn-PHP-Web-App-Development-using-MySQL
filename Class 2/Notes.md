@@ -55,14 +55,14 @@ Hi
 	1. Update Record
 	1. Delete Record
 
-## CRUD Operation: Create Record
+## 1. CRUD Operation: Create Record
 1. mysqli_connect()
 1. mysqli_connect_error()
 1. mysqli_query()
 1. mysqli_error()
 1. mysqli_connect()
 
-## CRUD Operation: Read Record
+## 1. CRUD Operation: Read Record
 
 
 ## CRUD Operation: Update Record
