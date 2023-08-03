@@ -14,8 +14,8 @@ Hi
 	* Direct
 	* No Basics
 * Have you checked basics (or advanced) resources from last class? 
-	* Programming on phone
-	* My Paid Course HTML
+	* Programming on phone course
+	* My Paid Course: HTML
 	* FWD Live Sessions
 	* PHP Urdu Book 
 	* W3Schools
@@ -46,21 +46,23 @@ Hi
 * Our Digital Product
 	* Social Media Post Sharing Project
 * Domain Knowledge
+	* How social media works
+	* Posts, comments, sharing, etc
 * Database Design, in PhpMyAdmin, or other software
-	* Create Database social
-	* Create Table user with fields 
+	* Create Database: social
+	* Create Table: user with fields 
 		* id
 		* name 
 			* maybe first name
 			* last name
 		* email
 		* password
-		* etc but it's enough
+		* etc but it's enough for now
 * Database CRUD Operation in PHP
-	1. Create Record
-	2. Read Record
-	3. Update Record
-	4. Delete Record
+	1. *C*reate Record
+	2. *R*ead Record
+	3. *U*pdate Record
+	4. *D*elete Record
 * Our Existing Knowledge?
 
 ## Our Existing Knowledge
