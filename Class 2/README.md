@@ -44,6 +44,7 @@ Hi
 
 # How to access XAMPP Server from Another PC
 * Access from LAN IP
+* How to download repo with code https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 
 # Class
 * Our Digital Product
@@ -100,7 +101,8 @@ $connection = mysqli_connect(
 * mysqli_query(), return result or false
 
 ```sql
-INSERT INTO table (column_1, column_2, ...) VALUES (value_1, value_2, ...)
+INSERT INTO tableName (columnName, columnName, ...) 
+VALUES (value, value, ...)
 ```
 
 ### 1.php
@@ -115,6 +117,11 @@ mysqli_query(
 ```
 ## 2. CRUD Operation: Read Record
 * mysqli_fetch_assoc()
+
+```sql
+SELECT columnName, columnName, ... 
+FROM tableName
+```
 
 ### 2.php
 ```php
@@ -136,6 +143,12 @@ while ($row = mysqli_fetch_assoc($result)) {
 
 ## 3. CRUD Operation: Update Record
 
+```sql
+UPDATE tableName
+SET columnName = value, columnName = value, ...
+WHERE Conditions
+```
+
 ### 3.php
 ```php
 <?php
@@ -144,9 +157,14 @@ mysqli_query($connection,'UPDATE users SET name = "Sheikh Aamir Shahzad", email 
 
 ## 4. CRUD Operation: Delete Record
 
+```sql
+DELETE FROM tableName 
+WHERE Conditions
+```
+
 ### 4.php
 ```php
-
+mysqli_query($connection,'DELETE FROM users WHERE id = 1');
 ```
 
 ## Skipped Functions
@@ -163,5 +181,3 @@ mysqli_query($connection,'UPDATE users SET name = "Sheikh Aamir Shahzad", email 
 	```
 
 # Ending
-How to download repo with code
-https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL

@@ -6,7 +6,7 @@ $result = mysqli_query(
 	'SELECT * FROM users'
 );
 
-echo '<pre>';
+echo '<pre><h1>Database Records List in raw form</h1>';
 
 while ($row = mysqli_fetch_assoc($result)) {
 	print_r($row);
