@@ -1,19 +1,15 @@
 <?php
-$connection = mysqli_connect(
-	'localhost', // servername/IP, it's comment
-	'root', // username
-	'', // password
-	'social' // Database name, notice no ","
-);
+require '0.php';
 
 $result = mysqli_query(
 	$connection,
-	'SELECT id, name FROM users'
+	'SELECT * FROM users'
 );
 
-while($row = mysqli_fetch_column($result,1)) {
+while($row = mysqli_fetch_assoc($result)) {
 	echo '<pre>';
 	print_r($row);
+	echo '</pre>'; // optional because no more HTML
 }
 
 mysqli_close($connection); // optional

@@ -80,11 +80,8 @@ Hi
 * var_dump()
 * die statement/function
 
-## 1. CRUD Operation: Create Record
-* mysqli_connect(), return obj or false
-* mysqli_query(), return result or false
-* mysqli_close
-
+## 0. Connect with the Database
+### 0.php
 ```php
 <?php
 $connection = mysqli_connect(
@@ -93,6 +90,17 @@ $connection = mysqli_connect(
 	'', // password
 	'social' // Database name, notice no ","
 );
+```
+
+## 1. CRUD Operation: Create Record
+* mysqli_connect(), return obj or false
+* mysqli_query(), return result or false
+* mysqli_close, optional on file ending
+
+### 1.php
+```php
+<?php
+require '0.php';
 
 mysqli_query(
 	$connection,
@@ -100,22 +108,37 @@ mysqli_query(
 );
 
 echo "<h1>Database record created successfully.</h1>";  // optional
-// Issue: no errors
+
 mysqli_close($connection); // optional
 ```
 
 
 ## 2. CRUD Operation: Read Record
 * mysqli_fetch_assoc()
+
+### 2.php
+```php
+
+```
+
+### Homework
 * mysqli_fetch_row()
 * mysqli_fetch_array()
 * mysqli_fetch_column()
 
-
 ## 3. CRUD Operation: Update Record
 
+### 3.php
+```php
+
+```
 
 ## 4. CRUD Operation: Delete Record
+
+### 4.php
+```php
+
+```
 
 ## Skipped Functions
 * mysqli_connect_error()
