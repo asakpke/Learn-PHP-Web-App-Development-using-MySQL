@@ -1,6 +1,6 @@
 # السلام علیکم ورحمتہ اللہ وبرکاتہ
-Hi
-دوستو
+Hi  
+دوستو  
 
 # Class Intro (*brief*): 
 * Our Digital Product:
@@ -10,9 +10,16 @@ Hi
 
 # Course Intro (*brief*): Learn PHP Web App Development using MySQL
 ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
-* Course style: Direct, No Basics
-* Have you checked basics from last class? Programming on phone, w3schools, DigiSkills
-* Course Fee! Don't worry :slightly_smiling_face: Pay as you like!
+* Course style 
+	* Direct
+	* No Basics
+* Have you checked basics from last class? 
+	* Programming on phone
+	* W3Schools
+	* DigiSkills
+* Course Fee! 
+	* Don't worry :slightly_smiling_face: 
+	* Pay as you like!
 > Account Holder: Aamir Shahzad  
 > Account No: 52010100479581  
 > Bank Name: Meezan Bank  
@@ -27,13 +34,31 @@ Hi
 * Attock City
 * [eSite.pk](http://esite.pk/)
 
-# Class Intro:
-* Our Digital Product: Social Media Post Sharing Project
+# Class
+* Our Digital Product
+	* Social Media Post Sharing Project
 * Domain Knowledge
-* Database Design: create database/table i.e 
+* Database Design
+	* Create Database i.e social
+	* Create Table i.e user 
 * Database CRUD Operation in PHP
-	* C
-	* R
+	* Create Record
+	* Read Record
+	* Update Record
+	* Delete Record
+
+# CRUD Operation: Create Record
+
+
+# CRUD Operation: Read Record
+
+
+# CRUD Operation: Update Record
+
+
+# CRUD Operation: Delete Record
+
+
 
 # Install WAMP/LAMP/MAMP/XAMPP
 * LAN IP
