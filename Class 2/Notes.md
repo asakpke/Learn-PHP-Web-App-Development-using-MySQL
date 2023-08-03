@@ -11,7 +11,7 @@ Hi
 # Course Intro (*brief*): Learn PHP Web App Development using MySQL
 ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
 * Course style 
-	* Direct
+	* Direct/fast
 	* No Basics
 * Have you checked basics (or advanced) resources from last class? 
 	* Programming on phone course
@@ -41,6 +41,9 @@ Hi
 * RoshanTech
 * Attock City
 * [eSite.pk](http://esite.pk/)
+
+# How to access XAMPP Server from Another PC
+* Access from LAN IP
 
 # Class
 * Our Digital Product
@@ -118,7 +121,21 @@ mysqli_close($connection); // optional
 
 ### 2.php
 ```php
+<?php
+require '0.php';
 
+$result = mysqli_query(
+	$connection,
+	'SELECT * FROM users'
+);
+
+while($row = mysqli_fetch_assoc($result)) {
+	echo '<pre>';
+	print_r($row);
+	echo '</pre>'; // optional because no more HTML
+}
+
+mysqli_close($connection); // optional
 ```
 
 ### Homework
@@ -151,11 +168,6 @@ mysqli_close($connection); // optional
 	```php
 	echo '<h1>Error in executing query:</h1>' . mysqli_error($connection);
 	```
-
-
-
-# Install WAMP/LAMP/MAMP/XAMPP
-* LAN IP
 
 # Ending
 How to download repo with code

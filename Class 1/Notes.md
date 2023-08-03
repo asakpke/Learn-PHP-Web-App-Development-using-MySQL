@@ -22,7 +22,7 @@ Hi,
 * What's PHP, web app, MySQL/PhpMyAdmin
 * Why you are learning this course? Job? Business/Products?
 * Why I'm teaching this course? Create you own digital asset
-* Course style is direct, no basics, more later on. Don't worry, I'll try to explain briefly
+* Course style is direct/fast, no basics, more later on. Don't worry, I'll try to explain briefly
 * Course Fee! Pay as you like :slightly_smiling_face:	
 
 > Account Holder: Aamir Shahzad  
