@@ -47,20 +47,58 @@ Hi
 	* Social Media Post Sharing Project
 * Domain Knowledge
 * Database Design, in PhpMyAdmin, or other software
-	* Create Database i.e social
-	* Create Table i.e user 
+	* Create Database social
+	* Create Table user with fields 
+		* id
+		* name 
+			* maybe first name
+			* last name
+		* email
+		* password
+		* etc but it's enough
 * Database CRUD Operation in PHP
 	1. Create Record
 	2. Read Record
 	3. Update Record
 	4. Delete Record
+* Our Existing Knowledge?
+
+## Our Existing Knowledge
+* echo/print/other function, what's function?
+* both can have ()
+
+## Assumed Knowledge
+* Variable
+* Comments, //, /* Multi lines ... */
+* if/elseif/else/switch statements
+* loops for/while/do...while/foreach
+
+## New Knowledge
+* die statement/function
 
 ## 1. CRUD Operation: Create Record
-1. mysqli_connect()
-1. mysqli_connect_error()
-1. mysqli_query()
-1. mysqli_error()
-1. mysqli_connect()
+* mysqli_connect(), return obj or false
+* mysqli_query(), return result or false
+* mysqli_close
+
+```php
+$connection = mysqli_connect(
+	'localhost', // servername/IP, it's comment
+	'root', // username
+	'', // password
+	'social' // Database name, notice no ","
+);
+
+mysqli_query(
+	$connection,
+	'INSERT INTO user (name, email, password) VALUES ("Aamir Shahzad", "Aamir@eSite.pk", "Hmmm, Why I told you?")'
+);
+
+echo "<h1>Database record created successfully.</h1>";
+
+mysqli_close($connection);
+```
+
 
 ## 2. CRUD Operation: Read Record
 
@@ -69,6 +107,19 @@ Hi
 
 
 ## 4. CRUD Operation: Delete Record
+
+## Skipped Functions
+* mysqli_connect_error()
+	```php
+	if (!$connection) {
+  	die('Could not connect with the database due to the following error: ' . mysqli_connect_error());
+	}
+	```
+* mysqli_error()
+	```php
+	echo 'Error in executing query: ' . mysqli_error($connection);
+	```
+
 
 
 # Install WAMP/LAMP/MAMP/XAMPP
