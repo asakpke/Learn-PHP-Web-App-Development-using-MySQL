@@ -51,9 +51,9 @@ Hi
 	* Create Table i.e user 
 * Database CRUD Operation in PHP
 	1. Create Record
-	1. Read Record
-	1. Update Record
-	1. Delete Record
+	2. Read Record
+	3. Update Record
+	4. Delete Record
 
 ## 1. CRUD Operation: Create Record
 1. mysqli_connect()
@@ -62,13 +62,13 @@ Hi
 1. mysqli_error()
 1. mysqli_connect()
 
-## 1. CRUD Operation: Read Record
+## 2. CRUD Operation: Read Record
 
 
-## CRUD Operation: Update Record
+## 3. CRUD Operation: Update Record
 
 
-## CRUD Operation: Delete Record
+## 4. CRUD Operation: Delete Record
 
 
 # Install WAMP/LAMP/MAMP/XAMPP
