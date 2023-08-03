@@ -2,11 +2,12 @@
 Hi,
 
 # Class Intro (*brief*): 
+* Domain Knowledge
 
 # Course Intro (*brief*): Learn PHP Web App Development using MySQL
 ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
-* Course style
-* Course Fee! Don't worry :slightly_smiling_face: Pay as you like!
+* Course style  
+* Course Fee! Don't worry :slightly_smiling_face: Pay as you like!  
 > Account Holder: Aamir Shahzad  
 > Account No: 52010100479581  
 > Bank Name: Meezan Bank  
