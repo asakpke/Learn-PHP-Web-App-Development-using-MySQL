@@ -84,6 +84,6 @@ https://chat.whatsapp.com/EhEIPA7HdKb6MnvlzwyqLa
 
 آپ بےشک اس گروپ کو ہر جگہ شئیر کریں، شکریہ 🙏
 
-عامر شہزاد
-RoshanTech
-www.eSite.pk
+عامر شہزاد  
+RoshanTech  
+www.eSite.pk  
