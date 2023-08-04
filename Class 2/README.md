@@ -37,7 +37,7 @@ Hi
 * Attock City
 * [www.eSite.pk](http://esite.pk/)
 
-# Pending from Last Class
+# Missed in Last Class
 * How to access XAMPP Server from Another PC, LAN IP
 * How to download/clone repo with code https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 * [Git Client/Server Software Download](https://git-scm.com/downloads) vs GitHub
