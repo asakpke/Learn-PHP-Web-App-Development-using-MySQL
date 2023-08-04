@@ -100,6 +100,7 @@ $connection = mysqli_connect(
 ## 1. CRUD Operation: Create Record
 * mysqli_query(), return result or false
 
+### SQL Syntax
 ```sql
 INSERT INTO tableName (columnName, columnName, ...) 
 VALUES (value, value, ...)
@@ -118,6 +119,7 @@ mysqli_query(
 ## 2. CRUD Operation: Read Record
 * mysqli_fetch_assoc()
 
+### SQL Syntax
 ```sql
 SELECT columnName, columnName, ... 
 FROM tableName
@@ -143,6 +145,7 @@ while ($row = mysqli_fetch_assoc($result)) {
 
 ## 3. CRUD Operation: Update Record
 
+### SQL Syntax
 ```sql
 UPDATE tableName
 SET columnName = value, columnName = value, ...
@@ -160,6 +163,7 @@ mysqli_query(
 
 ## 4. CRUD Operation: Delete Record
 
+### SQL Syntax
 ```sql
 DELETE FROM tableName 
 WHERE Conditions

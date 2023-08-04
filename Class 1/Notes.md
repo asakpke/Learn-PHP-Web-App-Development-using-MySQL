@@ -74,3 +74,16 @@ Also without closing tag
 
 # Ending
 https://github.com/asakpke/
+
+▶️ YouTube.com/asakpke
+یہ گروپ مفت وائیڈ ڈویلپمنٹ سیکھانے کے لیے بنایا ہے۔ کیونکہ یہ گروپ اوپن ہے اسلیے کوئی بھی غیر معقول/متعلقہ شئیرنگ کر سکتا ہے جسے گروپ سے ممکنہ نکال دیا جائے گا۔ ہر ممبر کی ذمہ داری ہے کہ وہ اپنی طرف سے ایسی پوسٹ کو ڈیلیٹ کردیں۔
+
+https://signal.group/#CjQKIIssIuNAzXUTNutw2TIOPso2Hw3W11Lc6nFELTzPQQHSEhD4buQi25ABWVuAyoZKfevd
+
+https://chat.whatsapp.com/EhEIPA7HdKb6MnvlzwyqLa
+
+آپ بےشک اس گروپ کو ہر جگہ شئیر کریں، شکریہ 🙏
+
+عامر شہزاد
+RoshanTech
+www.eSite.pk
