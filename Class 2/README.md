@@ -18,13 +18,8 @@ Hi
 	* My Paid Course: HTML
 	* FWD Live Sessions
 	* PHP Urdu Book 
-	* W3Schools
-		* HTML
-		* CSS
-		* JS
-		* PHP
-		* SQL
-	* DigiSkills
+	* W3Schools: HTML, CSS, JS, PHP, SQL
+	* DigiSkills: 15 Courses
 * Course Fee!
 	* Don't worry :slightly_smiling_face:
 	* Pay as you like!
@@ -40,11 +35,12 @@ Hi
 * Programming, Linux & Open Source
 * RoshanTech
 * Attock City
-* [eSite.pk](http://esite.pk/)
+* [www.eSite.pk](http://esite.pk/)
 
-# How to access XAMPP Server from Another PC
-* Access from LAN IP
-* How to download repo with code https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
+# Pending from Last Class
+* How to access XAMPP Server from Another PC, LAN IP
+* How to download/clone repo with code https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
+* [Git Client/Server Software Download](https://git-scm.com/downloads) vs GitHub
 
 # Class
 * Our Digital Product
@@ -53,6 +49,7 @@ Hi
 	* How social media works
 	* Posts, comments, sharing, etc
 * Database Design, in PhpMyAdmin, or other software
+	* Import Database
 	* Create Database: social
 	* Create Table: user with fields 
 		* id
