@@ -95,13 +95,15 @@ $connection = mysqli_connect(
 ```
 
 ## 1. CRUD Operation: Create Record
-* mysqli_query(), return result or false
 
 ### SQL Syntax
 ```sql
 INSERT INTO tableName (columnName, columnName, ...) 
 VALUES (value, value, ...)
 ```
+
+### New Functions
+* mysqli_query(), return result or false
 
 ### 1.php
 ```php
@@ -114,13 +116,15 @@ mysqli_query(
 );
 ```
 ## 2. CRUD Operation: Read Record
-* mysqli_fetch_assoc()
 
 ### SQL Syntax
 ```sql
 SELECT columnName, columnName, ... 
 FROM tableName
 ```
+
+### New Functions
+* mysqli_fetch_assoc()
 
 ### 2.php
 ```php
@@ -149,6 +153,9 @@ SET columnName = value, columnName = value, ...
 WHERE Conditions
 ```
 
+### New Functions
+* Non :)
+
 ### 3.php
 ```php
 <?php
@@ -165,6 +172,9 @@ mysqli_query(
 DELETE FROM tableName 
 WHERE Conditions
 ```
+
+### New Functions
+* Non :)
 
 ### 4.php
 ```php
