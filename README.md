@@ -8,7 +8,7 @@ https://www.youtube.com/playlist?list=PLuSlqiqQkM0wSHcgl7CjEYg51PxsCwMVd
 # Course Intro
 <!-- ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png) -->
 ![](img/Web-Development-PNG-Image.png)
-"<a href=https://www.pngall.com/web-development-png/download/12773 target="_blank">Web Development PNG Image</a>" by <a href="pngall">PNGAll</a>, used under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> / Text & background added from original
+[^1]
 
 * Why you are learning this course?
 * Why I'm teaching this course?
@@ -96,3 +96,5 @@ https://chat.whatsapp.com/EhEIPA7HdKb6MnvlzwyqLa
 عامر شہزاد  
 RoshanTech  
 www.eSite.pk  
+
+[^1]: "<a href=https://www.pngall.com/web-development-png/download/12773 target="_blank">Web Development PNG Image</a>" by <a href="pngall">PNGAll</a>, used under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> / Text & background added from original
