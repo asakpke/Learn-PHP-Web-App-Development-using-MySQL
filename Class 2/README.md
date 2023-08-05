@@ -12,6 +12,7 @@ Hi
 <!-- ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png) -->
 ![](img/Web-Development-PNG-Image.png)
 [^1]
+
 * Course style 
 	* Direct/fast
 	* No Basics
