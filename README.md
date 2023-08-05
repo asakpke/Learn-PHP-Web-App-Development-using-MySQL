@@ -6,7 +6,10 @@ Hi,
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0wSHcgl7CjEYg51PxsCwMVd
 
 # Course Intro
-![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
+<!-- ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png) -->
+![](img/Web-Development-PNG-Image.png)
+"<a href=https://www.pngall.com/web-development-png/download/12773 target="_blank">Web Development PNG Image</a>" by <a href="pngall">PNGAll</a>, used under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> / Text & background added from original
+
 * Why you are learning this course?
 * Why I'm teaching this course?
 * Course style
@@ -75,7 +78,13 @@ https://www.apachefriends.org/download.html
 ```
 Also without closing tag
 
-▶️ YouTube.com/asakpke
+# What's Next?
+* Check notes/code in each class sub folders above
+* You just need to click class folder & scroll down
+* Watch class videos on the YouTube channel given above at start
+
+# Signal/WhatsApp Groups for Q/A
+▶️ YouTube.com/asakpke  
 یہ گروپ مفت وائیڈ ڈویلپمنٹ سیکھانے کے لیے بنایا ہے۔ کیونکہ یہ گروپ اوپن ہے اسلیے کوئی بھی غیر معقول/متعلقہ شئیرنگ کر سکتا ہے جسے گروپ سے ممکنہ نکال دیا جائے گا۔ ہر ممبر کی ذمہ داری ہے کہ وہ اپنی طرف سے ایسی پوسٹ کو ڈیلیٹ کردیں۔
 
 https://signal.group/#CjQKIIssIuNAzXUTNutw2TIOPso2Hw3W11Lc6nFELTzPQQHSEhD4buQi25ABWVuAyoZKfevd
