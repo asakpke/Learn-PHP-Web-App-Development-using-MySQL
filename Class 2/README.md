@@ -2,8 +2,13 @@
 Hi,  
 دوستو  
 
-# Associated YouTube video playlist 
+# Associated Links
+
+## YouTube Videos Playlist 
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0wSHcgl7CjEYg51PxsCwMVd
+
+## GitHub Repository
+https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 
 # Class Intro (*brief*): 
 * Our Digital Product:
