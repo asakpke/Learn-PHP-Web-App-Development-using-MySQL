@@ -154,7 +154,7 @@ WHERE Conditions
 ```
 
 ### New Functions
-* Non :)
+* Non :smile:
 
 ### 3.php
 ```php
@@ -174,7 +174,7 @@ WHERE Conditions
 ```
 
 ### New Functions
-* Non :)
+* Non :smile:
 
 ### 4.php
 ```php
