@@ -2,6 +2,9 @@
 Hi  
 دوستو  
 
+# Associated YouTube video playlist 
+https://www.youtube.com/playlist?list=PLuSlqiqQkM0wSHcgl7CjEYg51PxsCwMVd
+
 # Class Intro (*brief*): 
 * Our Digital Product:
 * Domain Knowledge
