@@ -9,7 +9,9 @@ Hi
 * CRUD Operation
 
 # Course Intro (*brief*): Learn PHP Web App Development using MySQL
-![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png)
+<!-- ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png) -->
+![](img/Web-Development-PNG-Image.png)
+[^1]
 * Course style 
 	* Direct/fast
 	* No Basics
@@ -154,7 +156,7 @@ WHERE Conditions
 ```
 
 ### New Functions
-* Non :smile:
+* Non :slightly_smiling_face:
 
 ### 3.php
 ```php
@@ -174,7 +176,7 @@ WHERE Conditions
 ```
 
 ### New Functions
-* Non :smile:
+* Non :slightly_smiling_face:
 
 ### 4.php
 ```php
@@ -198,3 +200,5 @@ mysqli_query(
 	```
 
 # Ending
+
+[^1]: "<a href=https://www.pngall.com/web-development-png/download/12773 target="_blank">Web Development PNG Image</a>" by <a href="pngall">PNGAll</a>, used under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> / Text & background added from original
