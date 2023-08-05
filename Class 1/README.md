@@ -3,8 +3,7 @@ Hi,
 
 # Course Intro (*very brief*): Learn PHP Web App Development using MySQL
 <!-- ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png) -->
-![](img/Web-Development-PNG-Image.png)
-[^1]
+![](img/Web-Development-PNG-Image.png) [^1]
 
 * Why you are learning this course?
 * Why I'm teaching this course?
