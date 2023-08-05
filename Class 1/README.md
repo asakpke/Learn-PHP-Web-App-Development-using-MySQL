@@ -19,8 +19,7 @@ https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 * Course style
 * Course Fee! Don't worry :slightly_smiling_face:	
 
-# My Intro
-* Aamir Shahzad
+# Instructor Intro (*brief*): Aamir Shahzad
 * DCS, IDCS, IADCS, MCS
 * Programming, Linux & Open Source
 * Few of my Linux distros/Respins
@@ -28,6 +27,9 @@ https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 * Attock City
 * [eSite.pk](http://esite.pk/)
 * [YouTube.com/asakpke](https://www.youtube.com/asakpke)
+
+# Requested to Like/Comment Video
+> It's requested to like/comment video, plz don't forget. It helps us to reach more people. You may also share video but likes/comments are more important to grow video reach.
 
 # Course Intro: Learn PHP Web App Development using MySQL
 * What's PHP, web app, MySQL/PhpMyAdmin
