@@ -1,5 +1,5 @@
 # السلام علیکم ورحمتہ اللہ وبرکاتہ
-Hi  
+Hi,  
 دوستو  
 
 # Associated YouTube video playlist 
@@ -203,5 +203,19 @@ mysqli_query(
 	```
 
 # Ending
+
+# Signal/WhatsApp Groups for Q/A
+▶️ YouTube.com/asakpke  
+یہ گروپ مفت وائیڈ ڈویلپمنٹ سیکھانے کے لیے بنایا ہے۔ کیونکہ یہ گروپ اوپن ہے اسلیے کوئی بھی غیر معقول/متعلقہ شئیرنگ کر سکتا ہے جسے گروپ سے ممکنہ نکال دیا جائے گا۔ ہر ممبر کی ذمہ داری ہے کہ وہ اپنی طرف سے ایسی پوسٹ کو ڈیلیٹ کردیں۔
+
+https://signal.group/#CjQKIIssIuNAzXUTNutw2TIOPso2Hw3W11Lc6nFELTzPQQHSEhD4buQi25ABWVuAyoZKfevd
+
+https://chat.whatsapp.com/EhEIPA7HdKb6MnvlzwyqLa
+
+آپ بےشک اس گروپ کو ہر جگہ شئیر کریں، شکریہ 🙏
+
+عامر شہزاد  
+RoshanTech  
+www.eSite.pk  
 
 [^1]: "<a href=https://www.pngall.com/web-development-png/download/12773 target="_blank">Web Development PNG Image</a>" by <a href="pngall">PNGAll</a>, used under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> / Text & background added from original

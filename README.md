@@ -1,6 +1,7 @@
 # Learn PHP Web App Development using MySQL
 # السلام علیکم ورحمتہ اللہ وبرکاتہ
-Hi,
+Hi,  
+دوستو  
 
 # Associated YouTube video playlist 
 https://www.youtube.com/playlist?list=PLuSlqiqQkM0wSHcgl7CjEYg51PxsCwMVd
