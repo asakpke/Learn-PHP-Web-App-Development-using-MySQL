@@ -40,6 +40,8 @@ https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 	> Branch Code: 5201  
 	> IBAN No: PK97MEZN0052010100479581  
 
+You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dollar, we appreciate it.
+
 # Instructor Intro (*brief*): Aamir Shahzad
 * DCS, IDCS, IADCS, MCS
 * Programming, Linux & Open Source
