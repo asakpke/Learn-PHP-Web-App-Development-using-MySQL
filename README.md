@@ -12,7 +12,6 @@ https://www.youtube.com/playlist?list=PLuSlqiqQkM0wSHcgl7CjEYg51PxsCwMVd
 https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 
 # Course Intro
-<!-- ![](https://i.pinimg.com/originals/59/86/e6/5986e6c412706db74e73e2c01934f937.png) -->
 ![](img/Web-Development-PNG-Image.png) [^1]
 
 * Why you are learning this course?
