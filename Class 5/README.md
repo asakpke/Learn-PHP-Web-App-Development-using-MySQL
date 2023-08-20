@@ -8,9 +8,6 @@ Hi,
 * [GitHub Repository](https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL)
 
 # Class Intro (*brief*):
-* Concatenation
-* Two website links
-* Rest of the things maybe in next class
 * Security Issues in Signup
 * Log In Page
 * Session Management
@@ -41,37 +38,9 @@ You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dol
 > It's requested to like our videos because it helps us to reach more great people like you.
 
 # Class
-* Concatination
-* Two website links
-* Rest of the things maybe in next class
 * Security Issues in Signup
 * Log In Page
 * Session Management
-
-# Concatination
-## 0.1.php
-```php
-...
-$name = 'Aamir Shahzad';
-$email = 'Aamir@eSite.pk';
-$password = 'Hmmm, Why I told you?';
-$sql = 'INSERT INTO users (name, email, password) VALUES ("'.$name.'", "'.$email.'", "'.$password.'")';
-echo $sql;
-```
-
-## 0.2.php
-```php
-$sql = "INSERT INTO users (name, email, password) VALUES (\"$name\", \"$email\", \"$password\")";
-```
-
-# Two website links
-https://www.bootstrapdash.com/all-free-templates
-
-"Digital Products Guide"
-"Starting your journey as a digital product creator can feel overwhelming. With so many steps to take and so much to learn, it can take years to gather all the necessary knowledge. This guide is designed to show you the path and provide step-by-step guidance toward creating and selling successful digital products."
-https://modestmitkus.notion.site/Digital-Products-Guide-057202815465413c955f09a15254c089
-
-# Rest of the things maybe in next class
 
 # Security Issues in Signup
 
