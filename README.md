@@ -104,3 +104,5 @@ RoshanTech
 www.eSite.pk  
 
 [^1]: "<a href=https://www.pngall.com/web-development-png/download/12773 target="_blank">Web Development PNG Image</a>" by <a href="pngall">PNGAll</a>, used under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> / Text & background added from original
+
+#php #phptutorial #phpwebdevelopment #mysql #mysqltutorial #webdevelopment #webdeveloper #learnphp #learnmysql #phpforbeginners #mysqlforbeginners #phpprogramming #mysqlprogramming #phpmysql #phpmysqltutorial #phpmysqldevelopment
