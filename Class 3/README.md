@@ -14,8 +14,6 @@ Hi,
 * Bootstrap
 * Sign Up Page
 * Security Issues in Signup
-* Log In Page
-* Session Management
 
 # Course Intro (*brief*): Learn PHP Web App Development using MySQL
 ![](img/Web-Development-PNG-Image.png) [^1]
@@ -49,8 +47,6 @@ You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dol
 * Bootstrap
 * Sign Up Page
 * Security Issues in Signup
-* Log In Page
-* Session Management
 
 # GUI/UI/UX
 * GUI stands for Graphical User Interface
