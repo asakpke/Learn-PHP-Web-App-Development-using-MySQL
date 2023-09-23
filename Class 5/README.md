@@ -43,6 +43,23 @@ You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dol
 * Session Management
 
 # Security Issues in Signup
+## What's the issue
+* Add few records
+* Then SQL Injection
+
+## Import Database
+* Emails
+
+## The issue in details
+What if we put following in the password field
+> `mypassword"); DELETE FROM users; #`
+
+## How to Fix it?
+```php
+$stmt = mysqli_prepare($connection, 'INSERT INTO Table_Name VALUES (null, ?);');
+mysqli_stmt_bind_param($stmt, "type string", $variables, ...);
+mysqli_stmt_execute($stmt);
+```
 
 # Ending
 
