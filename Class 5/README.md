@@ -37,8 +37,6 @@ You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dol
 
 # Class
 * Security Issues in Signup
-* Log In Page
-* Session Management
 
 # Security Issues in Signup
 ## What's the issue
