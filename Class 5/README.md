@@ -9,8 +9,6 @@ Hi,
 
 # Class Intro (*brief*):
 * Security Issues in Signup
-* Log In Page
-* Session Management
 
 # Course Intro (*brief*): Learn PHP Web App Development using MySQL
 ![](img/Web-Development-PNG-Image.png) [^1]
@@ -62,6 +60,9 @@ mysqli_stmt_execute($stmt);
 ```
 
 # Ending
+Future classes topics
+* Log In Page
+* Session Management
 
 # Signal/WhatsApp Groups for Q/A
 ▶️ YouTube.com/asakpke  
