@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 require '../Class 2/0.php';
 
 echo '<pre>$_POST ';
@@ -27,11 +29,12 @@ $msg = 'Valid email/password.';
 if ($row == null) {
 	$msg = 'Invalid email/password.';
 	// header('Location: 5.php?msg='.$msg);
-	// exit();
+	header('Location: 11.html?msg='.$msg);
+	exit();
 }
 
-print_r($msg);
-exit;
+// print_r($msg);
+// exit;
 
 mysqli_close($connection); // optional
 
@@ -39,5 +42,5 @@ mysqli_close($connection); // optional
 $_SESSION['is_logged_in'] = 1;
 // ENDED - Maintain session
 
-header('Location: 6.php');
+header('Location: 13.php');
 exit();
