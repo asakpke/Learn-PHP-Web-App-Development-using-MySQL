@@ -225,7 +225,7 @@ else {
 	mysqli_close($connection); // optional
 
 	// START - Maintain session
-	$_SESSION['is_logged_in'] = 1;
+	$_SESSION['user_id'] = 1;
 	// ENDED - Maintain session
 
 	header('Location: 6.php');

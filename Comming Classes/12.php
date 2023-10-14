@@ -24,6 +24,8 @@ $result = mysqli_query(
 );
 
 $row = mysqli_fetch_assoc($result);
+// print_r($row);
+// exit;
 $msg = 'Valid email/password.';
 
 if ($row == null) {
@@ -39,7 +41,7 @@ if ($row == null) {
 mysqli_close($connection); // optional
 
 // START - Maintain session
-$_SESSION['is_logged_in'] = 1;
+$_SESSION['user_id'] = $row['id'];
 // ENDED - Maintain session
 
 header('Location: 13.php');
