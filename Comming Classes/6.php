@@ -7,6 +7,7 @@ session_start();
 if (empty($_SESSION['user_id'])) {
 	$msg = 'Please login to view this page.';
 	header('Location: 5.php?msg='.$msg);
+	exit;
 }
 // ENDED - Redirect to login page if user is not logged-in
 ?>
