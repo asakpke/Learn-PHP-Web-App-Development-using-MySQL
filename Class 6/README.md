@@ -26,6 +26,8 @@ Hi,
 
 You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dollar, we appreciate it.
 
+> Become my patron https://patreon.com/asakpke
+
 # Instructor Intro (*brief*): Aamir Shahzad
 * DCS, IDCS, IADCS, MCS
 * Programming, Linux & Open Source
@@ -40,10 +42,53 @@ You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dol
 
 # Login
 
+## 1.html
+```html
+<main class="form-signin w-100 m-auto">
+  <form action="2.php" method="post">
+    <img class="mb-4" src="../Class 3/bootstrap-5.3.1-examples/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
+    <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+
+    <div class="form-floating">
+      <input name="email" type="email" class="form-control" id="floatingInputEmail" placeholder="name@example.com">
+      <label for="floatingInputEmail">Email address</label>
+    </div>
+    <div class="form-floating">
+      <input name="password" type="password" class="form-control" id="floatingPassword" placeholder="Password">
+      <label for="floatingPassword">Password</label>
+    </div>
+    
+    <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
+    <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2023</p>
+  </form>
+</main>
+```
+
+## 2.php
+```php
+$sql = "SELECT * FROM users WHERE email = '{$_POST['email']}' AND password = '{$_POST['password']}'";
+print_r($sql);
+
+$result = mysqli_query(
+	$connection,
+	$sql
+);
+
+$row = mysqli_fetch_assoc($result);
+print_r($row);
+// var_dump($row);
+
+if (empty($row)) {
+    echo '<h1>Invalid email/password</h1>';
+    exit;
+}
+
+echo '<h1>Valid email/password</h1>';
+```
 
 # Ending
 Future classes topics
-* Log In Page
+* Fix issues in Log In Page
 * Session Management
 
 # Signal/WhatsApp Groups for Q/A
@@ -53,6 +98,8 @@ Future classes topics
 https://signal.group/#CjQKIIssIuNAzXUTNutw2TIOPso2Hw3W11Lc6nFELTzPQQHSEhD4buQi25ABWVuAyoZKfevd
 
 https://chat.whatsapp.com/EhEIPA7HdKb6MnvlzwyqLa
+
+https://whatsapp.com/channel/0029Va8Cf7842DciJsxV4p1E
 
 آپ بےشک اس گروپ کو ہر جگہ شئیر کریں، شکریہ 🙏
 

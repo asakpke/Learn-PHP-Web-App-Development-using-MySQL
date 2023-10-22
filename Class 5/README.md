@@ -26,6 +26,8 @@ Hi,
 
 You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dollar, we appreciate it.
 
+> Become my patron https://patreon.com/asakpke
+
 # Instructor Intro (*brief*): Aamir Shahzad
 * DCS, IDCS, IADCS, MCS
 * Programming, Linux & Open Source

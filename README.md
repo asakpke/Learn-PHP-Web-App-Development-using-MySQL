@@ -46,6 +46,8 @@ https://github.com/asakpke/Learn-PHP-Web-App-Development-using-MySQL
 
 You can pay fee whatever you can afford :innocent: Even if it's just a rupee/dollar, we appreciate it.
 
+> Become my patron https://patreon.com/asakpke
+
 # Learn Basic Programming
 [Learn Computer Programming on Your Mobile Phone](https://www.youtube.com/playlist?list=PLuSlqiqQkM0yE5z2PF9wjyHM9_FHOo9Ew) ![](https://esite.pk/wp-content/uploads/2021/09/n2zkz-Vjnhk-1024x576.jpg)
 
